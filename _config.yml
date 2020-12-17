@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Price
+title                    : "Tom Price"
 title_separator          : "-"
 name                     : &name "Tom Price"
 description              : &description "I like solving problems."
 url                      : https://tfp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tfp1/academicpages.github.io"
+repository               : "tfp1/tfp1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
